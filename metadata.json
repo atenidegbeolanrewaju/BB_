@@ -1,6 +1,6 @@
 {
   "name": "DeDON WL Token",
-  "symbol": "DeDONWL"
+  "symbol": "DeDONWL",
   "description": "Whitelist token for DeDON mint",
   "image": "https://raw.githubusercontent.com/atenidegbeolanrewaju/BB_/main/DeD_WL.png"
 }
